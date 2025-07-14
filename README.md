@@ -28,6 +28,7 @@
 - **Age Group**: Highest revenue from customers aged 40-50
 - **Card Preference**: Blue card users generate the most revenue
 
+
 ### 2. **Transaction Insights**
 - **Total Transactions**: 656K transactions totaling ₹45M
 - **Most Used Card Type**: Blue
