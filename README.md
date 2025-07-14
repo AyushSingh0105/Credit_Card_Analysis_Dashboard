@@ -2,23 +2,22 @@
 
 ## 📊OVERVIEW
 
-        This Power BI project provides a comprehensive analysis of **credit card customer behavious** and ** transaction patterns** using
-        interactive dashboards.
-        It is designed to help stakeholders make data driven decisions by visualizing revenuue, transaction types, demographics and more.
+- This Power BI project provides a comprehensive analysis of __credit card customer behaviour__ and __transaction patterns__ using interactive dashboards.
+  It is designed to help stakeholders make data driven decisions by visualizing revenuue, transaction types, demographics and more.
 ---
 ## 🚀OBJECTIVES
 
-        -Analyze revenue and interest from different customer segments.
-        -Visualize credit card usage by card type, chip type, gender, and location.
-        -Identify trends in customer spending and income distribution.
-        -Understand demographic impact on credit card usage (age, marital status, job, education).
-        -Track revenue and transaction counts across quarters.
+- Analyze revenue and interest from different customer segments.
+- Visualize credit card usage by card type, chip type, gender, and location.
+- Identify trends in customer spending and income distribution.
+- Understand demographic impact on credit card usage (age, marital status, job, education).
+- Track revenue and transaction counts across quarters.
 
 ---
 ## 📁 DASHBOARD FILES
 
 - `Credit_Card_Customer_Report.pbix` – Insights on customer demographics and revenue
-- - `Credit_Card_Transaction_Report.pbix` – Deep dive into transaction-level metrics
+- `Credit_Card_Transaction_Report.pbix` – Deep dive into transaction-level metrics
 
 ---
 ## 📌KEY INSIGHTS
