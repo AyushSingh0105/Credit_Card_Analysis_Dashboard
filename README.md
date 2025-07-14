@@ -1,17 +1,28 @@
 # CREDIT CARD DASHBOARD - Power BI
 
-## 📊OVERVIEW
+## 📊 OVERVIEW
 
 - This Power BI project provides a comprehensive analysis of __credit card customer behaviour__ and __transaction patterns__ using interactive dashboards.
   It is designed to help stakeholders make data driven decisions by visualizing revenuue, transaction types, demographics and more.
 ---
-## 🚀OBJECTIVES
+## 🚀 OBJECTIVES
 
 - Analyze revenue and interest from different customer segments.
 - Visualize credit card usage by card type, chip type, gender, and location.
 - Identify trends in customer spending and income distribution.
 - Understand demographic impact on credit card usage (age, marital status, job, education).
 - Track revenue and transaction counts across quarters.
+
+---
+## 📸 DASHBOARD PREVIEWS
+
+### 🧍‍♂️ Customer Analysis Dashboard
+![Credit_Card_Analysis_Dashboard](Customer_Dasboard/customer_dashboard.jpg)
+
+
+
+### 💳 Transaction Analysis Dashboard
+![Credit_Card_Analysis_Dashboard](Transaction_Dasboard/transaction_dashboard.jpg)
 
 ---
 ## 📁 DASHBOARD FILES
